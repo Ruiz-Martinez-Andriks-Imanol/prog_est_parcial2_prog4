@@ -1,7 +1,7 @@
 # prog_est_parcial2_prog4
 <p>Autor: Andriks Imanol Ruiz Martínez, Fecha: 28/03/2022 <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructrada <br>
+Materia: Programación Estructurada <br>
 Ciclo: 01/2022</p>
 <br>
 <p>Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programación Estructurada<br>
