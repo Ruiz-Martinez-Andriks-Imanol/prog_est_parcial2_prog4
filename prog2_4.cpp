@@ -1,17 +1,17 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 28/03/2022
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 28/03/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de funciones, ciclos y condicionales en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
   
     -Variables tipo enteros y flotantes
     -printf para mostrar mensajes y variables
     -scanf
-    -El uso de include para las librer韆s
-    -Uso de la librer韆 math.h
-    -Arreglo por m閠odo de la burbuja
+    -El uso de include para las librer铆as
+    -Uso de la librer铆a math.h
+    -Arreglo por m茅todo de la burbuja
     -Ciclos
     -Contador
     -Condicionales
@@ -20,7 +20,7 @@ Muestra el uso de:
     -Prototipos
     -switch
     -#define MAX  para definir cierta cantidad para el arreglo
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 	*/
 #include<stdio.h>
 #include<stdlib.h>
@@ -36,7 +36,7 @@ Muestra el uso de:
  void asistencias(int y[]);
 //principal
 int main() {
-	//Declaraci髇 de variables
+	//Declaraci贸n de variables
 	float cal[MAX];
 	int faltas[MAX];
 	int opcion, centinela=0;
